@@ -1,5 +1,5 @@
 # middleware-ActiveMQ
-[image](https://github.com/Condor-G/middleware-ActiveMQ/blob/master/images/GUI.png)
+![image](https://github.com/Condor-G/middleware-ActiveMQ/blob/master/images/GUI.png)
 ### Introduction
 Simple chat program by ActiveMQ
 ### Dependency
